@@ -52,3 +52,20 @@ Remember that Docker Compose will create new directories for the project (**post
 In the top and right side of IntelliJ IDE, open the list of debuggers and select the correct, in this case "Debug Docker Medical Clinic", then click in the Bug to start debugging; then you can add new breakpoints and move step by step with F7 and F8.
 
 ![screenshot-5](https://i.imgur.com/WS8Wy7N.png)
+
+## Author
+
+**Sergio Zambrano** 👤
+
+- GitHub: [@sergiomauz](https://github.com/sergiomauz)
+- X: [@sergiomauz](https://x.com/sergiomauz)
+- Linkedin: [Sergio Zambrano](https://www.linkedin.com/in/sergiomauz/)
+
+## Contributing 🤝
+
+Contributions, issues and feature requests are welcome!. Feel free to check the [issues page](../../issues/).
+
+## Show me your support
+
+- Give a ⭐️ if you like this project.
+- If you found this project helpful and would like to buy me a coffee, you can do so using Paypal:
