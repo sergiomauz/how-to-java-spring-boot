@@ -69,3 +69,9 @@ Contributions, issues and feature requests are welcome!. Feel free to check the 
 
 - Give a ⭐️ if you like this project.
 - If you found this project helpful and would like to buy me a coffee, you can do so using Paypal:
+
+[![Donar con PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=sergio.mauz88@gmail.com&currency_code=USD)
+
+## License 📝
+
+This project is [MIT](./LICENSE) licensed.
